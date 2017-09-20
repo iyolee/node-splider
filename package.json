@@ -1,0 +1,26 @@
+{
+  "name": "splider",
+  "version": "1.0.0",
+  "description": "node.js写的网络爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyolee/node-splider.git"
+  },
+  "author": "leeper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyolee/node-splider/issues"
+  },
+  "homepage": "https://github.com/iyolee/node-splider#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "request": "^2.82.0"
+  }
+}
